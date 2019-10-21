@@ -25,9 +25,6 @@
           <DefaultAnnotationText>rcd_location.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="year" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\rcd_location.csv" type="V_WString" />
@@ -76,9 +73,6 @@
 Table=`ACTResults1819PrivacyComposite$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="System" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\actresults1819.xlsx|||`ACTResults1819PrivacyComposite$`" type="V_String" />
@@ -127,9 +121,6 @@ Table=`ACTResults1819PrivacyComposite$`</DefaultAnnotationText>
           <DefaultAnnotationText>DEC_10_SF1_GCTPH1.ST05_with_ann.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="GEO.id" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\DEC_10_SF1_GCTPH1.ST05_with_ann.csv" type="V_String" />
@@ -406,7 +397,7 @@ Tested] = Null() OR
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_d00edaa862ac4ec988e0f655ad050ca0_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_ad81ed37a414462a8ad8b9e360186f19_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -475,7 +466,7 @@ Tested] = Null() OR
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_93c60a352bd545cfae2cb7149db03523_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_19ff7aea9e0045ba83f5edb2db6c69aa_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -503,7 +494,7 @@ Tested] = Null() OR
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_880cdaf5204c40a8ae3cc2b1c3288650_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_9c037a2b2627456b9cf633df0a039c44_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -531,7 +522,7 @@ Tested] = Null() OR
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_c7015eda37e0447e944fcb80c6b1a8ea_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_68b1773ddb5e46e8841a1f6ca1ca05b9_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -735,7 +726,7 @@ Tested] = Null() OR
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_061dac136abc4e20a71b457b18ed4aea_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_6b6375400ae048c786ef79d4358e2471_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1012,7 +1003,7 @@ Tested] = Null() OR
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_662c39bf0bb3437abcf711c5c5346519_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_17fb7a3587274916a34b8aee2dd62cd3_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1040,7 +1031,7 @@ Tested] = Null() OR
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_abb4cd2b699c4da3b3d3214fc20276d5_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_a8000ad879f748ff815b6af585aa1253_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1068,7 +1059,7 @@ Tested] = Null() OR
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_28ba0fd0231d41a19853b724b7e3bd69_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_a66b04eca9334461b5e85a05b6533cc6_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1096,7 +1087,7 @@ Tested] = Null() OR
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_50197468dee7400587731a7d08c80ae7_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_e63773595ae740629f797a6e59805724_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1265,9 +1256,6 @@ Tested</Value>
 Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="System" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\actresults1718.xlsx|||`ACTResults1718PrivacyComposite$`" type="V_String" />
@@ -1318,7 +1306,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_bae2ab675c014cc0854c3d9ddb167aca_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_12697ad31ecc46d0a4192b26c6e9b841_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1470,7 +1458,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_006ad1dfa7e54fae8dc6feac9872efb2_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_c79e29050389488aa57e6181c9ba9c2f_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1555,7 +1543,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_338c50dfbcf74429bb3553fb39880fd3_\Engine_13308_45d2791ffaa841d8aaf2ecaab19a9622_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11872_568b7e96daa2421d9904ddaa849d292e_\Engine_572_69cabc188f46487ea7f766d2cfb39729_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1606,6 +1594,87 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Annotation>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="152">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="222" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">./src-datasets/NC_median_household_income/ACS_17_5YR_GCT1901.ST05.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>2</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>ACS_17_5YR_GCT1901.ST05.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="0400000US37" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\NC_median_household_income\ACS_17_5YR_GCT1901.ST05.csv" type="V_String" />
+            <Field name="37" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\NC_median_household_income\ACS_17_5YR_GCT1901.ST05.csv" type="V_String" />
+            <Field name="North Carolina" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\NC_median_household_income\ACS_17_5YR_GCT1901.ST05.csv" type="V_String" />
+            <Field name="0400000US37_2" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\NC_median_household_income\ACS_17_5YR_GCT1901.ST05.csv" type="V_String" />
+            <Field name="37_2" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\NC_median_household_income\ACS_17_5YR_GCT1901.ST05.csv" type="V_String" />
+            <Field name="North Carolina2" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\NC_median_household_income\ACS_17_5YR_GCT1901.ST05.csv" type="V_String" />
+            <Field name="North Carolina3" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\NC_median_household_income\ACS_17_5YR_GCT1901.ST05.csv" type="V_String" />
+            <Field name="50320" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\NC_median_household_income\ACS_17_5YR_GCT1901.ST05.csv" type="V_String" />
+            <Field name="204" size="254" source="File: D:\Data Science\Data Science Project\src-datasets\NC_median_household_income\ACS_17_5YR_GCT1901.ST05.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="153">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="102" y="30" width="112" height="40" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>NC Census median household income by county</Text>
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="155">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="306" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Substring(([North Carolina3]),0,FindString(([North Carolina3]), &quot;County&quot;)-1)" field="North Carolina3" size="254" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>North Carolina3 = Substring(([North Carolina3]),0,FindString(([North Carolina3])...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
     </Node>
     <Node ToolID="148">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
@@ -2904,6 +2973,10 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     <Connection>
       <Origin ToolID="151" Connection="Join" />
       <Destination ToolID="121" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="152" Connection="Output" />
+      <Destination ToolID="155" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="126" Connection="Output26" />
