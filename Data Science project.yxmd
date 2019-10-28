@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="1">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="150" y="306" />
+        <Position x="150" y="330" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -56,7 +56,7 @@
     </Node>
     <Node ToolID="3">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="150" y="414" />
+        <Position x="150" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -99,7 +99,7 @@ Table=`ACTResults1819PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="10">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="222" y="150" />
+        <Position x="222" y="174" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -144,7 +144,7 @@ Table=`ACTResults1819PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="14">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="582" y="342" />
+        <Position x="582" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -174,7 +174,7 @@ Table=`ACTResults1819PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="16">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
-        <Position x="426" y="438" />
+        <Position x="426" y="462" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -229,7 +229,7 @@ Table=`ACTResults1819PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="17">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
-        <Position x="402" y="330" />
+        <Position x="402" y="354" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -295,7 +295,7 @@ Table=`ACTResults1819PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="20">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-        <Position x="678" y="342" />
+        <Position x="678" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -313,7 +313,7 @@ Table=`ACTResults1819PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="21">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="774" y="234" />
+        <Position x="774" y="258" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -343,7 +343,7 @@ Table=`ACTResults1819PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="33">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="2046" y="198" />
+        <Position x="2046" y="222" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -393,11 +393,11 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="34">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2058" y="90" />
+        <Position x="2058" y="114" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_f22ca34ce8384e21a8427027e6da1697_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_855b0f65dc3d4530a70250edbcb608df_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -421,7 +421,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="40">
       <GuiSettings Plugin="Linear_Regression">
-        <Position x="2202" y="186" />
+        <Position x="2202" y="210" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -462,11 +462,11 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="41">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2298" y="102" />
+        <Position x="2298" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_7518b05091c143878e8457f2ae7ab984_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_26e63bf7569a4d34bbaaa64fdb6bfb79_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -490,11 +490,11 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="42">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2298" y="186" />
+        <Position x="2298" y="210" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_c747b55f456842138bd65fdecda89d6d_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_a35d497290a0430696d71b02db552127_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -518,11 +518,11 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="43">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2382" y="270" />
+        <Position x="2382" y="294" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_c9313e7880fa403aaa40b64d8a742bf2_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_d122412a62d446dfa7856dbfd1cf7ab5_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -546,7 +546,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="22">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="462" y="150" />
+        <Position x="462" y="174" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -564,7 +564,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="44">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="414" y="210" width="108" height="72" />
+        <Position x="414" y="234" width="108" height="72" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -584,7 +584,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="45">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="54" y="426" width="96" height="60" />
+        <Position x="54" y="450" width="96" height="60" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -604,7 +604,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="46">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="54" y="318" width="100" height="40" />
+        <Position x="54" y="342" width="100" height="40" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -624,7 +624,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="47">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="126" y="162" width="100" height="40" />
+        <Position x="126" y="186" width="100" height="40" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -644,7 +644,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="50">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="594" y="486" width="96" height="76" />
+        <Position x="594" y="510" width="96" height="76" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -664,7 +664,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="51">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="630" y="318" width="84" height="28" />
+        <Position x="630" y="342" width="84" height="28" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -684,7 +684,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="55">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="930" y="246" />
+        <Position x="930" y="270" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -722,11 +722,11 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="56">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2142" y="306" />
+        <Position x="2142" y="330" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_a40934ecb13949b8942fb8eb1bc446e0_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_722b8e16257f4bc08a364812880ff556_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -750,7 +750,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="64">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="342" y="438" />
+        <Position x="342" y="462" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -771,7 +771,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="91">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-        <Position x="1686" y="162" />
+        <Position x="1686" y="186" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -790,7 +790,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="92">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="1914" y="198" />
+        <Position x="1914" y="222" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -805,8 +805,8 @@ Tested] = Null() OR
             <SelectField field="designation_type" selected="False" />
             <SelectField field="name" selected="True" />
             <SelectField field="county" selected="True" />
-            <SelectField field="Dollar" selected="True" />
-            <SelectField field="Margin of Error" selected="True" />
+            <SelectField field="Dollar" selected="True" type="Int64" size="8" />
+            <SelectField field="Margin of Error" selected="True" type="Int64" size="8" />
             <SelectField field="street_addr" selected="False" />
             <SelectField field="stree_addr2" selected="False" />
             <SelectField field="city" selected="False" />
@@ -866,7 +866,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="93">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="1122" y="306" width="108" height="72" />
+        <Position x="1122" y="330" width="108" height="72" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -886,7 +886,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="94">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="810" y="318" width="120" height="60" />
+        <Position x="810" y="342" width="120" height="60" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -906,7 +906,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="95">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="894" y="186" width="100" height="40" />
+        <Position x="894" y="210" width="100" height="40" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -926,7 +926,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="96">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="1662" y="126" width="100" height="40" />
+        <Position x="1662" y="150" width="100" height="40" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -946,7 +946,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="97">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="1890" y="162" width="100" height="40" />
+        <Position x="1890" y="186" width="100" height="40" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -966,7 +966,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="98">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="2010" y="258" width="100" height="40" />
+        <Position x="2010" y="282" width="100" height="40" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -986,7 +986,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="99">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="2154" y="126" width="120" height="60" />
+        <Position x="2154" y="150" width="120" height="60" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1006,11 +1006,11 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="100">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="306" y="186" />
+        <Position x="306" y="210" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_9b98153911f940419fe58a80daa2355e_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_cb6f1f0d3e71451183e7d9c710b1f59a_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1034,11 +1034,11 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="101">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="222" y="450" />
+        <Position x="222" y="474" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_0f96916222764cf88b98d46ee061414c_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_329f4b9276b742489475ea36c39bff33_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1062,11 +1062,11 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="106">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2238" y="414" />
+        <Position x="2238" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_80b4d13acc6a4e32ae7d00377cf13896_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_f775cf159a7645059b90d299d81b673c_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1090,11 +1090,11 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="107">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="2238" y="498" />
+        <Position x="2238" y="522" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_bb1d6013b3c34ad6a4f50e3806225da7_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_637b098a20654c0cb7b35e37bedbc53b_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1118,7 +1118,7 @@ Tested] = Null() OR
     </Node>
     <Node ToolID="108">
       <GuiSettings>
-        <Position x="2154" y="414" />
+        <Position x="2154" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1173,7 +1173,7 @@ Tested</Value>
     </Node>
     <Node ToolID="109">
       <GuiSettings Plugin="PlotlyCharting">
-        <Position x="2154" y="534" />
+        <Position x="2154" y="558" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1246,7 +1246,7 @@ Tested</Value>
     </Node>
     <Node ToolID="110">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="222" y="570" />
+        <Position x="222" y="594" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1289,7 +1289,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="111">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="126" y="582" width="96" height="60" />
+        <Position x="126" y="606" width="96" height="60" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1309,11 +1309,11 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="113">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="294" y="546" />
+        <Position x="294" y="570" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_ed459764e19c4a919aa45b06037106c9_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_90be2f67e5d94fd6ac589b612b20f218_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1337,7 +1337,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="114">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="618" y="582" />
+        <Position x="618" y="606" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -1367,7 +1367,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="115">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
-        <Position x="450" y="582" />
+        <Position x="450" y="606" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1422,7 +1422,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="116">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-        <Position x="714" y="582" />
+        <Position x="714" y="606" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1440,7 +1440,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="117">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="366" y="582" />
+        <Position x="366" y="606" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1461,11 +1461,11 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="119">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="786" y="534" />
+        <Position x="786" y="558" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_58383048dd234bb9b97e8a1339212501_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_0e88d76f4f884f889b5dcc265c2caefa_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1489,7 +1489,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="121">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-        <Position x="918" y="402" />
+        <Position x="918" y="426" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1527,7 +1527,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="122">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-        <Position x="1662" y="390" />
+        <Position x="1662" y="414" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1546,11 +1546,11 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="150">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="546" y="102" />
+        <Position x="546" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_11280_cd3e94d37c1e47f383068bb849be7dc1_\Engine_13356_204b93c46264496f9279748530ec00d4_.yxdb</TempFile>
+          <TempFile>C:\Users\jonat\AppData\Local\Temp\Engine_10176_e5d5d309b6334ebfa5d2da4fcebd606d_\Engine_8900_e80d7e985acd4cf291aed260515bb86f_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1574,7 +1574,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="151">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="834" y="402" />
+        <Position x="834" y="426" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -1604,7 +1604,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="152">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="222" y="54" />
+        <Position x="222" y="78" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1644,7 +1644,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="153">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="102" y="66" width="112" height="40" />
+        <Position x="102" y="90" width="112" height="40" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1664,7 +1664,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="155">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="306" y="54" />
+        <Position x="306" y="78" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1682,7 +1682,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="156">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-        <Position x="1782" y="66" />
+        <Position x="1782" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration joinByRecordPos="False">
@@ -1774,7 +1774,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="157">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="1758" y="30" width="100" height="40" />
+        <Position x="1758" y="54" width="100" height="40" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1794,7 +1794,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="148">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="1122" y="510" width="925" height="433" />
+        <Position x="1122" y="534" width="925" height="433" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1812,7 +1812,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="126">
           <GuiSettings>
-            <Position x="1147" y="595" />
+            <Position x="1147" y="619" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1838,7 +1838,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="127">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1231" y="595" />
+            <Position x="1231" y="619" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1874,7 +1874,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="128">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1291" y="559" />
+            <Position x="1291" y="583" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1893,7 +1893,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="129">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1207" y="691" />
+            <Position x="1207" y="715" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1929,7 +1929,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="130">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1303" y="655" />
+            <Position x="1303" y="679" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1948,7 +1948,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="131">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1207" y="835" />
+            <Position x="1207" y="859" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1984,7 +1984,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="132">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1291" y="787" />
+            <Position x="1291" y="811" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2003,7 +2003,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="133">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1555" y="619" />
+            <Position x="1555" y="643" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2039,7 +2039,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="134">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1651" y="619" />
+            <Position x="1651" y="643" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2058,7 +2058,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="135">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1555" y="715" />
+            <Position x="1555" y="739" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2094,7 +2094,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="136">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1651" y="691" />
+            <Position x="1651" y="715" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2113,7 +2113,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="137">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1555" y="835" />
+            <Position x="1555" y="859" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2149,7 +2149,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="138">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1651" y="823" />
+            <Position x="1651" y="847" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2168,7 +2168,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="139">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1855" y="847" />
+            <Position x="1855" y="871" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2204,7 +2204,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="140">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1867" y="751" />
+            <Position x="1867" y="775" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2223,7 +2223,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="141">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1351" y="583" />
+            <Position x="1351" y="607" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2242,7 +2242,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="142">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1375" y="679" />
+            <Position x="1375" y="703" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2261,7 +2261,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="143">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1375" y="835" />
+            <Position x="1375" y="859" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2280,7 +2280,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="144">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1747" y="619" />
+            <Position x="1747" y="643" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2299,7 +2299,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="145">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1747" y="703" />
+            <Position x="1747" y="727" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2318,7 +2318,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="146">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1759" y="859" />
+            <Position x="1759" y="883" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2337,7 +2337,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="147">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1963" y="715" />
+            <Position x="1963" y="739" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2358,7 +2358,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="89">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="1098" y="246" width="158.5655" height="24" />
+        <Position x="1098" y="270" width="158.5655" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2376,7 +2376,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="59">
           <GuiSettings>
-            <Position x="1123" y="331" />
+            <Position x="1123" y="355" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2402,7 +2402,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="60">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1207" y="330.9999" />
+            <Position x="1207" y="354.9999" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2438,7 +2438,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="62">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1267" y="295" />
+            <Position x="1267" y="319" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2457,7 +2457,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="65">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1183" y="426.9998" />
+            <Position x="1183" y="450.9998" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2493,7 +2493,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="66">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1279" y="391.0001" />
+            <Position x="1279" y="415.0001" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2512,7 +2512,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="68">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1183" y="570.9999" />
+            <Position x="1183" y="594.9999" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2548,7 +2548,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="69">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1267" y="523" />
+            <Position x="1267" y="547" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2567,7 +2567,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="71">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1531" y="355" />
+            <Position x="1531" y="379" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2603,7 +2603,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="72">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1627" y="355" />
+            <Position x="1627" y="379" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2622,7 +2622,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="74">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1531" y="451" />
+            <Position x="1531" y="475" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2658,7 +2658,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="75">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1627" y="427" />
+            <Position x="1627" y="451" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2677,7 +2677,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="77">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1531" y="571" />
+            <Position x="1531" y="595" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2713,7 +2713,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="78">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1627" y="559" />
+            <Position x="1627" y="583" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2732,7 +2732,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="80">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1831" y="583" />
+            <Position x="1831" y="607" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2768,7 +2768,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="81">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1843" y="487" />
+            <Position x="1843" y="511" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2787,7 +2787,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="82">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1327" y="319" />
+            <Position x="1327" y="343" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2806,7 +2806,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="83">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1351" y="415" />
+            <Position x="1351" y="439" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2825,7 +2825,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="84">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1351" y="571" />
+            <Position x="1351" y="595" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2844,7 +2844,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="85">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1723" y="355" />
+            <Position x="1723" y="379" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2863,7 +2863,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="86">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1723" y="439" />
+            <Position x="1723" y="463" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2882,7 +2882,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="87">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1735" y="595" />
+            <Position x="1735" y="619" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2901,7 +2901,7 @@ Table=`ACTResults1718PrivacyComposite$`</DefaultAnnotationText>
         </Node>
         <Node ToolID="90">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1939" y="451.0001" />
+            <Position x="1939" y="475.0001" />
           </GuiSettings>
           <Properties>
             <Configuration>
