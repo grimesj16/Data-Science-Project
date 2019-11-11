@@ -2177,9 +2177,6 @@ Table=`ACT_school_suppressed$`</DefaultAnnotationText>
 Table=`2017 School$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="s" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\2017ACTSchool_Florida.xlsx|||`2017 School$`" type="Double" />
@@ -2226,9 +2223,6 @@ Table=`2017 School$`</DefaultAnnotationText>
           <DefaultAnnotationText>MSID_all_schools.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="DISTRICT" size="254" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\MSID_all_schools.csv" type="V_String" />
@@ -2904,9 +2898,6 @@ Table=`2017 School$`</DefaultAnnotationText>
 Table=`Sheet 1$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="SCH_YEAR" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT_KY.xlsx|||`Sheet 1$`" type="Double" />
@@ -2960,9 +2951,6 @@ Table=`Sheet 1$`</DefaultAnnotationText>
 Table=`Sheet 1$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="SCH_YEAR" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\PROFILE.xlsx|||`Sheet 1$`" type="Double" />
@@ -3464,9 +3452,6 @@ Table=`Sheet 1$`</DefaultAnnotationText>
 Table=`SCHOOLYEARSF$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="S" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ACT-Schools2019.xlsx|||`SCHOOLYEARSF$`" type="V_String" />
@@ -3507,9 +3492,6 @@ Table=`SCHOOLYEARSF$`</DefaultAnnotationText>
           <DefaultAnnotationText>schools_export.csv</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="ADDRESSMAIL" size="254" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\schools_export.csv" type="V_String" />
@@ -3867,9 +3849,6 @@ Table=`SCHOOLYEARSF$`</DefaultAnnotationText>
 Table=`SCHOOLYEARSF$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="S" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ACT2018SchoolsFinal.xlsx|||`SCHOOLYEARSF$`" type="V_String" />
@@ -4063,7 +4042,7 @@ Table=`SCHOOLYEARSF$`</DefaultAnnotationText>
       <Properties>
         <Configuration>
           <Passwords />
-          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`</File>
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">./src-datasets/ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`</File>
           <FormatSpecificOptions>
             <FirstRowData>False</FirstRowData>
             <ImportLine>1</ImportLine>
@@ -4080,33 +4059,33 @@ Table=`Sheet 1$`</DefaultAnnotationText>
         </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
-            <Field name="SCH_YEAR" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="Double" />
-            <Field name="CNTYNO" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="CNTYNAME" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="DIST_NUMBER" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="DIST_NAME" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="SCH_NUMBER" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="SCH_NAME" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="SCH_CD" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="SCH_TYPE" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="STATE_SCH_ID" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="NCESID" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="CATEGORY" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="TEST_TYPE" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="DISAGG_ORDER" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="Double" />
-            <Field name="DISAGG_LABEL" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="STDNT_TESTED_CNT" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="STDNT_TESTED_BNCHMRK_CNT" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="ENGLISH_MEAN_SCORE" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="ENGLISH_BNCHMRK_PCT" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="MATHEMATICS_MEAN_SCORE" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="MATHEMATICS_BNCHMRK_PCT" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="READING_MEAN_SCORE" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="READING_BNCHMRK_PCT" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="SCIENCE_MEAN_SCORE" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="COMPOSITE_MEAN_SCORE" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="COOP" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
-            <Field name="COOP_CODE" size="255" source="File: C:\Users\mccle\OneDrive\Desktop\gitdata\Data-Science-Project-master\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="SCH_YEAR" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="Double" />
+            <Field name="CNTYNO" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="CNTYNAME" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="DIST_NUMBER" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="DIST_NAME" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="SCH_NUMBER" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="SCH_NAME" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="SCH_CD" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="SCH_TYPE" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="STATE_SCH_ID" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="NCESID" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="CATEGORY" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="TEST_TYPE" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="DISAGG_ORDER" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="Double" />
+            <Field name="DISAGG_LABEL" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="STDNT_TESTED_CNT" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="STDNT_TESTED_BNCHMRK_CNT" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="ENGLISH_MEAN_SCORE" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="ENGLISH_BNCHMRK_PCT" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="MATHEMATICS_MEAN_SCORE" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="MATHEMATICS_BNCHMRK_PCT" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="READING_MEAN_SCORE" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="READING_BNCHMRK_PCT" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="SCIENCE_MEAN_SCORE" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="COMPOSITE_MEAN_SCORE" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="COOP" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
+            <Field name="COOP_CODE" size="255" source="File: D:\Data Science\Data Science Project\src-datasets\ASSESSMENT_ACT (2).xlsx|||`Sheet 1$`" type="V_String" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
@@ -4252,9 +4231,6 @@ Table=`Sheet 1$`</DefaultAnnotationText>
           <DefaultAnnotationText>nc_ky_tn_sc_act.hyper</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
     </Node>
